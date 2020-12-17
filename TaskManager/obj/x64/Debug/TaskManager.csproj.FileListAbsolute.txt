@@ -1,0 +1,10 @@
+D:\Desktop\Projects\C#\Task Manager\TaskManager\TaskManager\bin\x64\Debug\TaskManager.exe.config
+D:\Desktop\Projects\C#\Task Manager\TaskManager\TaskManager\bin\x64\Debug\TaskManager.exe
+D:\Desktop\Projects\C#\Task Manager\TaskManager\TaskManager\bin\x64\Debug\TaskManager.pdb
+D:\Desktop\Projects\C#\Task Manager\TaskManager\TaskManager\obj\x64\Debug\TaskManager.Form1.resources
+D:\Desktop\Projects\C#\Task Manager\TaskManager\TaskManager\obj\x64\Debug\TaskManager.Properties.Resources.resources
+D:\Desktop\Projects\C#\Task Manager\TaskManager\TaskManager\obj\x64\Debug\TaskManager.csproj.GenerateResource.cache
+D:\Desktop\Projects\C#\Task Manager\TaskManager\TaskManager\obj\x64\Debug\TaskManager.csproj.CoreCompileInputs.cache
+D:\Desktop\Projects\C#\Task Manager\TaskManager\TaskManager\obj\x64\Debug\TaskManager.exe
+D:\Desktop\Projects\C#\Task Manager\TaskManager\TaskManager\obj\x64\Debug\TaskManager.pdb
+D:\Desktop\Projects\C#\Task Manager\TaskManager\TaskManager\obj\x64\Debug\TaskManager.csprojAssemblyReference.cache
